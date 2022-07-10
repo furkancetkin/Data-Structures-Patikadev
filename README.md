@@ -1,2 +1,2 @@
 # Data-Structures-Patikadev
- It is homeworks of patika.dev Data Structures Course
+These are homeworks of patika.dev Data Structures Course
